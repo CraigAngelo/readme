@@ -31,7 +31,7 @@ Run the generator:
 ```console
 rails generate my_example_gem:install
 ```
-
+this is a test
 
 ## Usage
 
